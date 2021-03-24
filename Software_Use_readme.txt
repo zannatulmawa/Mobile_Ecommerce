@@ -11,3 +11,7 @@ In order to copy thbe link
 2. search cdnjs then write owl carousel 2. Copy the owl.carousel.min.css file and owl.theme.default.mis.css file and add it to
 the index.html file.
 3. Search font awsome in cdnJs and choose all.min.js file for font awsome.
+
+For choosing the font
+1. Go to google font, copied the baloo thaumbi, raleway and relik regular 400 version, go to import and copy the link.
+paste it to ther style.scss file. 

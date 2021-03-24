@@ -1,0 +1,13 @@
+1. We are going to use Sass through node js. 
+2. Sass is a CSS pre-processor.
+3. Bootstrap
+4. Owl Carousel to create beautiful slider. It's a JQuery plugin which helps me to build beautiful slider.
+5. Font awsome icon to use free icons in my website.
+
+
+In order to copy thbe link
+
+1. Go to bootstrap and copy the first link.
+2. search cdnjs then write owl carousel 2. Copy the owl.carousel.min.css file and owl.theme.default.mis.css file and add it to
+the index.html file.
+3. Search font awsome in cdnJs and choose all.min.js file for font awsome.

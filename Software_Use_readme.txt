@@ -1,3 +1,6 @@
+Everytime I open the file, I need to write the command "npm start" in my cmd.
+
+
 1. We are going to use Sass through node js. 
 2. Sass is a CSS pre-processor.
 3. Bootstrap
@@ -15,3 +18,6 @@ the index.html file.
 For choosing the font
 1. Go to google font, copied the baloo thaumbi, raleway and relik regular 400 version, go to import and copy the link.
 paste it to ther style.scss file. 
+
+
+I need to download npm and sass in cmd, it won't work in anaconda terminal.

@@ -8,7 +8,7 @@ Everytime I open the file, I need to write the command "npm start" in my cmd.
 5. Font awsome icon to use free icons in my website.
 
 
-In order to copy thbe link
+In order to copy the link
 
 1. Go to bootstrap and copy the first link.
 2. search cdnjs then write owl carousel 2. Copy the owl.carousel.min.css file and owl.theme.default.mis.css file and add it to

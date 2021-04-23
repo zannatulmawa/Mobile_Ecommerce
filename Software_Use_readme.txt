@@ -20,4 +20,6 @@ For choosing the font
 paste it to ther style.scss file. 
 
 
+Install Information
 I need to download npm and sass in cmd, it won't work in anaconda terminal.
+The download command is npm install for installing npm and npm i -g sass for installing sass in the system.

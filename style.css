@@ -35,4 +35,29 @@ button, button:focus {
   font-size: 20px;
 }
 
+/*color template*/
+.color-primary {
+  color: blue;
+}
+
+.color-primary-bg {
+  background: blue;
+}
+
+.color-second {
+  color: skyblue;
+}
+
+.color-second-bg {
+  background: skyblue;
+}
+
+.color-grey {
+  color: grey;
+}
+
+.color-grey-bg {
+  background: grey;
+}
+
 /*# sourceMappingURL=style.css.map */

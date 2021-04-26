@@ -60,4 +60,29 @@ button, button:focus {
   background: grey;
 }
 
+/* Top sale Template */
+#top-sale .owl-carousel .item .product a {
+  overflow: hidden;
+}
+#top-sale .owl-carousel .item .product img {
+  transition: transform 0.5s ease;
+}
+#top-sale .owl-carousel .item .product img:hover {
+  transform: scale(1.1);
+}
+#top-sale .owl-carousel .owl-nav button {
+  position: absolute;
+  top: 30%;
+  outline: none;
+}
+#top-sale .owl-carousel .owl-nav button.owl-prev {
+  left: 0;
+}
+#top-sale .owl-carousel .owl-nav button.owl-prev span {
+  font-size: 35px;
+  color: blue;
+  margin-left: -4rem;
+  padding: 0 1rem;
+}
+
 /*# sourceMappingURL=style.css.map */

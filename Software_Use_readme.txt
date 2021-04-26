@@ -23,3 +23,19 @@ paste it to ther style.scss file.
 Install Information
 I need to download npm and sass in cmd, it won't work in anaconda terminal.
 The download command is npm install for installing npm and npm i -g sass for installing sass in the system.
+
+
+SasS means Software as a Service, which is a cloud-based service where instead of downloading software your desktop PC or business network
+to run and update, you instead access an application via an internet browser. 
+
+Accessibility: One strong advantage of any SaaS application is the ability to run through an internet browser,
+so it doesn't matter which Operating System is used to access it. 
+So regardless as to whether the user is trying to run the application on Windows, Mac, or Linux machines (or even smartphones running Android or iOS), 
+the application still remains accessible.
+
+npm is the world's largest Software Library (Registry). npm is also a software Package Manager and Installer. Open-source developers use npm to share software.
+The name npm (Node Package Manager) stems from when npm first was created as a package manager for Node.js. 
+
+All npm packages are defined in files called package.json. The content of package.json must be written in JSON.
+
+

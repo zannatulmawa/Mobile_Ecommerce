@@ -14,6 +14,7 @@ In order to copy the link
 2. search cdnjs then write owl carousel 2. Copy the owl.carousel.min.css file and owl.theme.default.mis.css file and add it to
 the index.html file.
 3. Search font awsome in cdnJs and choose all.min.js file for font awsome.
+4. Go to cdnjs.com and copy the jquery isotope min.js option. (This is for when I click the brand it will give me different brand)
 
 For choosing the font
 1. Go to google font, copied the baloo thaumbi, raleway and relik regular 400 version, go to import and copy the link.

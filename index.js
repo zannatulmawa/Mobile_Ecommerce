@@ -27,4 +27,16 @@ $(document).ready(function(){
             }
         }
     });
+
+    //Isotop filter
+
+    var $grid = $(".grid").isotope({
+        itemSelector:'.grid-item',
+        layoutMode : 'fitRows'
+
+    });
+
+    //Filter items on button click
+
+    
 });
